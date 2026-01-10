@@ -11,5 +11,9 @@ public class charAtbruhh {
 
         }
 
+        String part = s.substring(0,4);
+        System.out.println(part);
+
+
     }
 }
